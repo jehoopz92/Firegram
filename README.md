@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone
+`git clone`
+
+## Install Dependencies
+`npm i`
+
+## Firebase
+Create your firebase database and configure storage and add your config to `firebase/config.js`
+
 ## Available Scripts
 
 In the project directory, you can run:
